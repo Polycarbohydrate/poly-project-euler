@@ -1,4 +1,4 @@
-# rust-project-euler
+# poly-project-euler
 > [!IMPORTANT]  
 > The files located in the `src/` directory of this repository contain solutions to the questions 1-100 on [Project Euler](https://projecteuler.net/). Do not open those files if you do not wish to see spoilers/solutions.
 
